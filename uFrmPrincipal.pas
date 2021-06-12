@@ -138,9 +138,9 @@ begin
       gsPastaLocal := ExtractFilePath(Application.ExeName);
       sArqRemota := gsPastaRemota + '/' + gsArqRemoto;
       sArqLocal := gsPastaLocal + gsArqRemoto;
-      Host := '191.252.200.2';
-      Username := 'user_ftp';
-      Password := 'Thi@go28';
+      Host := 'IP_FTP';
+      Username := 'NOME_USUARIO';
+      Password := 'SENHA';
       Passive := True;
 
       if not Connected then
@@ -180,8 +180,8 @@ begin
 
   SQLConnConexao.Params.Values[ 'HostName'] := resultado;
   SQLConnConexao.Params.Values[ 'DataBase' ] := 'CART';
-  SQLConnConexao.Params.Values[ 'User_Name' ] := 'sa';
-  SQLConnConexao.Params.Values[ 'Password' ] := 'M@rcus56';
+  SQLConnConexao.Params.Values[ 'User_Name' ] := 'USUARIO';
+  SQLConnConexao.Params.Values[ 'Password' ] := 'SENHA_BANCO';
   SQLConnConexao.Params.Values[ 'OS Authentication' ] := 'False';
   SQLConnConexao.Params.Values[ 'Mars_Connection' ] := 'True';
 
