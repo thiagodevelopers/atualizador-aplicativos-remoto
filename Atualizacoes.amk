@@ -1,0 +1,36 @@
+[Atualizacoes]
+Modulo1=Administrativo.exe
+Versao1=vF1.1.01
+Titulo1=Administrativo
+
+Modulo2=Balcao.exe
+Versao2=vF1.1.01
+Titulo2=Balcão
+
+Modulo3=RegistroTitulosDocumentos.exe
+Versao3=vF1.1.01
+Titulo3=Registro de títulos e documentos
+
+Modulo4=Tabelionato.exe
+Versao4=vF1.1.01
+Titulo4=Tabelionato
+
+Modulo5=ProtestoTitulos.exe
+Versao5=vF1.1.01
+Titulo5=Protesto de títulos e documentos
+
+Modulo6=RegistroGeralImoveis.exe
+Versao6=vF1.1.01
+Titulo6=Registro geral de imóveis
+
+Modulo7=RegistroPessoaJuridica.exe
+Versao7=vF1.1.01
+Titulo7=Registro de pessoa jurídica
+
+Modulo8=RegistroPessoasNaturais.exe
+Versao8=vF1.1.01
+Titulo8=Registro de pessoas naturais
+
+Modulo9=InterdicaoTutelas.exe
+Versao9=vF1.1.01
+Titulo9=Registro de interdições e tutelas
